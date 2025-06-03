@@ -9,3 +9,12 @@ View party composition & player info while staying out of party
 请前往此 Repo 获取仓库地址 [https://github.com/decorwdyun/DalamudPlugins](https://github.com/decorwdyun/DalamudPlugins)
 
 Please visit this repository to get the repo URL:  [https://github.com/decorwdyun/DalamudPlugins](https://github.com/decorwdyun/DalamudPlugins)
+
+## ScreenShots
+
+![configure](./screenshot/configure.png)
+
+
+Origin           |  With PFRadar
+:-------------------------:|:-------------------------:
+![configure](./screenshot/screenshot_origin.png)  |  ![screenshot_001](./screenshot/screenshot_001.png)
